@@ -116,3 +116,27 @@ export { AbrigoAnimais as AbrigoAnimais };
 Se todos os passos forem seguidos corretamente, você terá um repositório como o da figura abaixo (lembrando que é permitido criar mais arquivos), onde `seuUsername` é o seu usuário do GitHub, que você informou no questionário da Gupy.
 
 ![Exemplo de repositório](estrutura-repositorio.png)
+
+
+
+
+Como melhorar a cobertura:
+Crie testes para cenários de erro:
+
+  Teste com brinquedos duplicados
+  
+  Teste com brinquedos inválidos
+  
+  Teste com animais duplicados
+  
+  Teste com animais inválidos
+
+Teste casos específicos das regras:
+
+  Teste o limite de 3 animais por pessoa
+  
+  Teste a regra do Loco (jabuti) precisando de companhia
+  
+  Teste casos onde ambas as pessoas podem adotar (Regra 4)
+  
+  Teste a diferença entre gatos e cães
